@@ -1,0 +1,521 @@
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+.menu-link {
+    font-family: 'Roboto', sans-serif
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.menu-link:hover,
+.menu-link:focus {
+color: #404BBF;
+}
+
+.contact-tel {
+    font-family: 'Roboto', sans-serif
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.contact-tel:hover,
+.contact-tel:focus {
+   color:  #404BBF;
+}
+
+.contact-email{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.contact-email:hover,
+.contact-email:focus {
+    color: #404BBF
+}
+
+.butt {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;;
+}
+
+.butt:hover,
+.butt:focus{
+background-color: #404BBF;
+}
+
+.main-text {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        text-align: center;
+        letter-spacing: 0.02em;
+}
+
+.strategy {
+font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42; }
+
+.goal {
+font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455; }
+
+.punctuality {
+font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+
+.key {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.diligence {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.brands {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.technologies {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.design {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.duo-main-text {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.three-main-text {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.mark {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.mark-qua {
+font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+   text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.tom {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.tom-qua {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.camila {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.camila-qua {
+    font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.daniel {
+font-family: 'Roboto',sans-serif;
+font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+ color: #2E2F42;
+}
+
+.daniel-qua {
+    font-family: 'Roboto',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.02em;
+color: #434455;
+}
+
+.footer-info {
+    font-family: 'Roboto',
+        sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+}
+
+.banking {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.app {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.cashless {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.market {
+font-family: 'Roboto',
+    sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;}
+
+.meditation {
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+     color: #2E2F42;
+}
+
+.duo-app {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+      letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.taxi {
+    font-family: 'Roboto',
+        sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.duo-market {
+    font-family: 'Roboto',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+       color: #434455;
+}
+
+.screen {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.design {
+    font-family: 'Roboto',
+        sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+       letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.courses {
+    font-family: 'Roboto',
+        sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+       letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.three-market {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.concept {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.duo-design {
+font-family: 'Roboto',sans-serif ;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.food {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.site {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+color: #434455;
+}
+
+.coffee {
+    font-family: 'Roboto',
+        sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+     letter-spacing: 0.02em;
+   color: #2E2F42;
+}
+
+.duo-site {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+color: #434455;
+}
+
+.butt-all {
+    font-family: 'Roboto',sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+
+.butt-all:hover,
+.butt-all:focus {
+    background: #404BBF;
+}
+
+.butt-site {
+font-family: 'Roboto',
+    sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+   display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+  color: #4D5AE5;
+}
+
+.butt-site:hover,
+.butt-site:focus {
+    background: #F4F4FD;
+}
+
+.butt-app {
+    font-family: 'Roboto',sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+       display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+    color: #4D5AE5;
+}
+
+.butt-app:hover,
+.butt-app:focus {
+    background: #F4F4FD;
+}
+
+.butt-design {
+font-family: 'Roboto',
+    sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5; }
+
+.butt-design:hover,
+.butt-design:focus {
+    background: #F4F4FD;
+}
+
+.butt-mark {
+    font-family: 'Roboto',sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+    color: #4D5AE5;
+}
+
+.butt-mark:hover,
+.butt-mark:focus {
+    background: #F4F4FD;
+}
